@@ -6,4 +6,4 @@ if A+B > C and A+C > B and B+C > A:
     print('Perimetro = {}'.format(perimetro))
 else:
     Area = ((A+B)*C)/2
-    print('Area = {}' .format(Area))
+    print('Area = {}' .format(Area))    
